@@ -1,0 +1,18 @@
+<svg width="200px" height="146px" viewBox="0 0 200 146" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="50%" y1="1.19233031%" x2="50%" y2="100%" id="linearGradient-jra05i9j1g-1">
+			<stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+			<stop stop-color="#000000" offset="100%"></stop>
+		</linearGradient>
+	</defs>
+	<g id="页面-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="编组-2">
+			<rect id="矩形" fill-opacity="0.4" fill="url(#linearGradient-jra05i9j1g-1)" x="0" y="59" width="200"
+				height="40"></rect>
+			<path
+				d="M200,71 L200,126 C200,137.045695 191.045695,146 180,146 L20,146 C8.954305,146 0,137.045695 0,126 L0,71 L0.400203274,71.0006444 C2.2535336,80.1292846 10.324396,87 20,87 L180,87 C189.675604,87 197.746466,80.1292846 199.599797,71.0006444 L200,71 Z"
+				id="形状结合" fill="#4147EE"></path>
+		</g>
+	</g>
+</svg>
